@@ -4,7 +4,7 @@
 
 
 
-🔭  Sou aberta a mudanças e sempre busco me adaptar ao cenário ao redor. Não sou a pessoa que sabe de tudo, mas sempre corro atrás para aprender o que for necessário. Busco sempre me manter atualizada sobre as novas tecnologias e estou sempre em busca de soluções para os problemas em que encontro, independente de qual linguagem ou qual método for o mais eficaz na solução, não êxito em mudar se necessário for.
+🔭  Desenvolvedora Frontend com foco em aplicações React. Estou no mundo da programação há 5 anos, e há cerca de 1 ano trabalho com foco em desenvolvimento frontend. Trabalho em TypeScript, NodeJS e React em projetos escaláveis e de alto desempenho. Busco sempre desenvolver da melhor forma, mantendo os padrões e código limpo nos projetos.
 
 <div> 
   <a href = "mailto:gabriellymouta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
